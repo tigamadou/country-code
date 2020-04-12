@@ -1,0 +1,1442 @@
+[
+    {
+      "nom": "Afghanistan",
+      "code": 93,
+      "apla_2": "AF",
+      "apla_3": "AFG"
+    },
+    {
+      "name": "Albanie",
+      "code": 355,
+      "apla_2 ": " AL ",
+      " apla_3 ": " ALB "
+    },
+    {
+      " nom ": " Algérie ",
+      " code ": 213,
+      " apla_2 ": " DZ ",
+      " apla_3 ": " DZA "
+    },
+    {
+      " nom ": " Samoa américaines ",
+      " code ": " 1-684 ",
+      " apla_2 ": " AS ",
+      " apla_3 ": " ASM "
+    },
+    {
+      " name ": " Andorre ",
+      " code ": 376,
+      " apla_2 ": " AD ",
+      " apla_3 ": " AND "
+    },
+    {
+      " name ": " Angola ",
+      " code ": 244,
+      " apla_2 ": " AO ",
+      " apla_3 ": " AGO "
+    },
+    {
+      " nom ": " Anguilla ",
+      " code ": " 1-264 ",
+      " apla_2 ": " AI ",
+      " apla_3 ": " AIA "
+    },
+    {
+      " name ": " Antarctica ",
+      " code ": 672,
+      " apla_2 ": " AQ ",
+      " apla_3 ": " ATA "
+    },
+    {
+      " name ": " Antigua-et-Barbuda ",
+      " code ": " 1-268 ",
+      " apla_2 ": " AG ",
+      " apla_3 ": " ATG "
+    },
+    {
+      " nom ": " Argentine ",
+      " code ": 54,
+      " apla_2 ": " AR ",
+      " apla_3 ": " ARG "
+    },
+    {
+      " nom ": " Arménie ",
+      " code ": 374,
+      "apla_2": "AM",
+      "apla_3": "ARM"
+    },
+    {
+      "name": "Aruba",
+      "code": 297,
+      "apla_2": "AW",
+      "apla_3": "ABW"
+    },
+    {
+      "nom": "Australie",
+      "code": 61,
+      "apla_2": "AU",
+      "apla_3": "AUS"
+    },
+    {
+      "name": "Autriche",
+      "code": 43,
+      "apla_2": "AT",
+      "apla_3": "AUT"
+    },
+    {
+      "nom": "Azerbaïdjan",
+      "code": 994,
+      "apla_2": "AZ",
+      "apla_3": "AZE"
+    },
+    {
+      "nom": "Bahamas",
+      "code": "1-242",
+      "apla_2": "BS",
+      "apla_3": "BHS"
+    },
+    {
+      "name": "Bah pluie ",
+      " code ": 973,
+      " apla_2 ": " BH ",
+      " apla_3 ": " BHR "
+    },
+    {
+      " name ": " Bangladesh ",
+      " code ": 880,
+      " apla_2 ": " BD ",
+      " apla_3 ": " BGD "
+    },
+    {
+      " name ": " Barbados ",
+      " code ": " 1-246 ",
+      " apla_2 ": " BB ",
+      " apla_3 ": " BRB "
+    },
+    {
+      " name ": " Biélorussie ",
+      " code ": 375,
+      " apla_2 ": " BY ",
+      " apla_3 ": " BLR "
+    },
+    {
+      " name ": " Belgique ",
+      " code ": 32,
+      " apla_2 ": " BE ",
+      " apla_3 ": " BEL "
+    },
+    {
+      " name ": " Belize ",
+      " code ": 501,
+      " apla_2 ": " BZ ",
+      " apla_3 ": " BLZ "
+    },
+    {
+      " name ": " Bénin ",
+      " code ": 229,
+      " apla_2 ": " BJ ",
+      " apla_3 ": " BEN "
+    },
+    {
+      " nom ": " Bermuda ",
+      " code ": " 1-441 ",
+      " apla_2 ": " BM ",
+      " apla_3 ": " BMU "
+    },
+    {
+      " name ": " Bhoutan ",
+      " code ": 975,
+      " apla_2 ": " BT ",
+      " apla_3 ": " BTN "
+    },
+    {
+      " name ": " Bolivia ",
+      " code ": 591,
+      " apla_2 ": " BO ",
+      " apla_3 ": " BOL "
+    },
+    {
+      " nom ": " Bosnie-Herzégovine ",
+      " code ": 387,
+      " apla_2 ": " BA ",
+      " apla_3 ": "BIH"
+    },
+    {
+      "nom": "Botswana",
+      "code": 267,
+      "apla_2": "BW",
+      "apla_3": "BWA"
+    },
+    {
+      "name": "Brésil",
+      "code": 55,
+      "apla_2": "BR",
+      "apla_3": "BRA"
+    },
+    {
+      "nom": "Territoire britannique de l'océan Indien",
+      "code": 246,
+      "apla_2": "IO",
+      "apla_3": "IOT"
+    },
+    {
+      "name": "British Virgin Islands",
+      "code": "1-284",
+      "apla_2": "VG",
+      "apla_3": "VGB"
+    },
+    {
+      "name": "Brunei ",
+      " code ": 673,
+      " apla_2 ": " BN ",
+      " apla_3 ": " BRN "
+    },
+    {
+      " nom ": " Bulgarie ",
+      " code ": 359,
+      " apla_2 ": " BG ",
+      " apla_3 ": " BGR "
+    },
+    {
+      " nom ": " Burkina Faso ",
+      " code ": 226,
+      " apla_2 ": " BF ",
+      " apla_3 ": " BFA "
+    },
+    {
+      " name ": " Burundi ",
+      " code ": 257,
+      " apla_2 ": " BI ",
+      " apla_3 ": " BDI "
+    },
+    {
+      " name ": " Cambodge ",
+      " code ": 855,
+      " apla_2 ": " KH ",
+      " apla_3 ": " KHM "
+    },
+    {
+      " name ": " Cameroun ",
+      " code ": 237,
+      " apla_2 ": " CM ",
+      " apla_3 ": " CMR "
+    },
+    {
+      " name ": " Canada ",
+      " code ": 1,
+      " apla_2 ": " CA ",
+      " apla_3 ": " CAN "
+    },
+    {
+      " name ": " Cape Verde ",
+      "code": 238,
+      "apla_2": "CV",
+      "apla_3": "CPV"
+    },
+    {
+      "nom": "Îles Caïmans",
+      "code": "1-345",
+      "apla_2": "KY",
+      "apla_3": "CYM"
+    },
+    {
+      "name": "République centrafricaine",
+      "code": 236,
+      "apla_2": "CF",
+      "apla_3": "CAF"
+    },
+    {
+      "name": " Tchad ",
+      " code ": 235,
+      " apla_2 ": " TD ",
+      " apla_3 ": " TCD "
+    },
+    {
+      " name ": " Chili ",
+      " code ": 56,
+      " apla_2 ": " CL ",
+      " apla_3 ": " CHL "
+    },
+    {
+      " name ": " Chine ",
+      " code ": 86,
+      " apla_2 ": " CN ",
+      " apla_3 ": " CHN "
+    },
+    {
+      " name ": " Christmas Island ",
+      "code": 61,
+      "apla_2": "CX",
+      "apla_3": "CXR"
+    },
+    {
+      "nom": "Îles Cocos",
+      "code": 61,
+      "apla_2": "CC",
+      "apla_3": "CCK"
+    },
+    {
+      "nom": "Colombie",
+      "code": 57,
+      "apla_2": "CO",
+      "apla_3": "COL"
+    },
+    {
+      "nom": "Comores",
+      "code": 269,
+      "apla_2": "KM",
+      "apla_3": "COM"
+    },
+    {
+      "nom": "Îles Cook",
+      "code": 682,
+      "apla_2": "CK",
+      "apla_3": "COK"
+    },
+    {
+      "nom": "Costa Rica",
+      "code": 506,
+      "apla_2": "CR",
+      "apla_3 ": " CRI "
+    },
+    {
+      " nom ": " Croatie ",
+      " code ": 385,
+      " apla_2 ": " HR ",
+      " apla_3 ": " HRV "
+    },
+    {
+      " nom ": " Cuba ",
+      " code ": 53,
+      " apla_2 ": " CU ",
+      " apla_3 ": " CUB "
+    },
+    {
+      " name ": " Curacao ",
+      " code ": 599,
+      " apla_2 ": " CW ",
+      " apla_3 ": " CUW "
+    },
+    {
+      " nom ": " Chypre ",
+      " code ": 357,
+      " apla_2 ": " CY ",
+      " apla_3 ": " CYP "
+    },
+    {
+      " nom ": " République tchèque ",
+      " code ": 420,
+      "apla_2": "CZ",
+      "apla_3": "CZE"
+    },
+    {
+      "nom": "République démocratique du Congo",
+      "code": 243,
+      "apla_2": "CD",
+      "apla_3": " COD "
+    },
+    {
+      " nom ": " Danemark ",
+      " code ": 45,
+      " apla_2 ": " DK ",
+      " apla_3 ": " DNK "
+    },
+    {
+      " nom ": " Djibouti ",
+      " code ": 253,
+      "apla_2": "DJ",
+      "apla_3": "DJI"
+    },
+    {
+      "nom": "Dominique",
+      "code": "1-767",
+      "apla_2": "DM",
+      "apla_3": " DMA "
+    },
+    {
+      " nom ": " République dominicaine ",
+      " code ": " 1-809, 1-829, 1-849 ",
+      " apla_2 ": " DO ",
+      " apla_3 ": " DOM"
+    },
+    {
+      "nom": "Timor oriental",
+      "code": 670,
+      "apla_2": "TL",
+      "apla_3": "TLS"
+    },
+    {
+      "nom": "Equateur",
+      "code": 593,
+      "apla_2": "EC",
+      "apla_3": "ECU"
+    },
+    {
+      "name": "Egypt",
+      "code": 20,
+      "apla_2": "EG",
+      "apla_3": "EGY"
+    },
+    {
+      "name": "El Salvador",
+      "code": 503,
+      "apla_2": "SV",
+      "apla_3": "SLV"
+    },
+    {
+      "nam e ": " Guinée équatoriale ",
+      " code ": 240,
+      " apla_2 ": " GQ ",
+      " apla_3 ": " GNQ "
+    },
+    {
+      " nom ": " Érythrée ",
+      " code ": 291,
+      " apla_2 ": "ER",
+      "apla_3": "ERI"
+    },
+    {
+      "nom": "Estonie",
+      "code": 372,
+      "apla_2": "EE",
+      "apla_3": "EST"
+    },
+    {
+      "nom": "Éthiopie",
+      "code": 251,
+      "apla_2": "ET",
+      "apla_3": "ETH"
+    },
+    {
+      "nom": "Îles Falkland",
+      "code": 500,
+      "apla_2": "FK",
+      "apla_3": "FLK"
+    },
+    {
+      "name": "Îles Féroé",
+      "code": 298,
+      "apla_2": "FO",
+      "apla_3": "FRO"
+    },
+    {
+      "name": "Fidji ",
+      " code ": 679,
+      " apla_2 ": " FJ ",
+      " apla_3 ": " FJI "
+    },
+    {
+      " name ": " Finlande ",
+      " code ": 358,
+      " apla_2 ": " FI ",
+      " apla_3 ": " FIN "
+    },
+    {
+      " nom ": " France ",
+      " code ": 33,
+      " apla_2 ": " FR ",
+      " apla_3 ": " FRA "
+    },
+    {
+      " nom ": " Polynésie française ",
+      " code ": 689,
+      " apla_2 ": " PF ",
+      " apla_3 ": " PYF "
+    },
+    {
+      " nom ": " Gabon ",
+      " code ": 241,
+      " apla_2 ": " GA ",
+      " apla_3 ": " GAB "
+    },
+    {
+      " nom ": " Gambie ",
+      " code ": 220,
+      " apla_2 ": " GM ",
+      " apla_3 ": " GMB "
+    },
+    {
+      " nom ": " Géorgie ",
+      " code ": 995,
+      "apla_2": "GE",
+      "apla_3": "GEO"
+    },
+    {
+      "nom": "Allemagne",
+      "code": 49,
+      "apla_2": "DE",
+      "apla_3": "DEU"
+    },
+    {
+      "nom": "Ghana",
+      "code": 233,
+      "apla_2": "GH",
+      "apla_3": "GHA"
+    },
+    {
+      "name": "Gibraltar",
+      "code": 350,
+      "apla_2": "GI",
+      "apla_3": "GIB"
+    },
+    {
+      "nom": "Grèce",
+      "code": 30,
+      "apla_2": "GR",
+      "apla_3": "GRC"
+    },
+    {
+      "name": "Groenland",
+      "code": 299,
+      "apla_2": "GL",
+      "apla_3": "GRL"
+    },
+    {
+      "nom": "Grenade",
+      "code": "1-473",
+      "apla_2": "GD",
+      "apla_3": "GRD"
+    },
+    {
+      "nom": "Guam",
+      "code": "1-671",
+      "apla_2": "GU",
+      "apla_3": "GUM"
+    },
+    {
+      "name": "Guatemala",
+      "code": 502,
+      "apla_2": "GT",
+      "apla_3": "GTM"
+    },
+    {
+      "nom": "Guernesey",
+      "code": "44-1481",
+      "apla_2": "GG",
+      "apla_3": " GGY "
+    },
+    {
+      " nom ": " Guinée ",
+      " code ": 224,
+      " apla_2 ": " GN ",
+      " apla_3 ": " GIN "
+    },
+    {
+      " nom ": " Guinée-Bissau ",
+      " code ": 245,
+      "apla_2": "GW",
+      "apla_3": "GNB"
+    },
+    {
+      "name": "Guyana",
+      "code": 592,
+      "apla_2": "GY",
+      "apla_3": "GUY"
+    },
+    {
+      "nom": "Haïti",
+      "code": 509,
+      "apla_2": "HT",
+      "apla_3": "HTI"
+    },
+    {
+      "nom": "Honduras",
+      "code": 504,
+      " apla_2 ": " HN ",
+      " apla_3 ": " HND "
+    },
+    {
+      " name ": " Hong Kong ",
+      " code ": 852,
+      " apla_2 ": " HK ",
+      " apla_3 ": " HKG "
+    },
+    {
+      "nom": "Hongrie",
+      "code": 36,
+      "apla_2": "HU",
+      "apla_3": "HUN"
+    },
+    {
+      "nom": "Islande",
+      "code": 354,
+      "apla_2": "IS",
+      "apla_3": "ISL"
+    },
+    {
+      "name": "India",
+      "code": 91,
+      "apla_2": "IN",
+      "apla_3": "IND"
+    },
+    {
+      "name": "Indonésie",
+      "code": 62,
+      "apla_2": "ID",
+      "apla_3": "IDN"
+    },
+    {
+      "nom": "Iran",
+      "code": 98,
+      "apla_2": "IR",
+      " apla_3 ": " IRN "
+    },
+    {
+      " name ": " Iraq ",
+      " code ": 964,
+      " apla_2 ": " IQ ",
+      " apla_3 ": " IRQ "
+    },
+    {
+      " name ": " Ireland ",
+      " code ": 353,
+      " apla_2 ": " IE ",
+      " apla_3 ": " IRL "
+    },
+    {
+      " nom ": " Ile de Man ",
+      " code ": " 44-1624 ",
+      " apla_2 ": " IM ",
+      "apla_3": "IMN"
+    },
+    {
+      "nom": "Israël",
+      "code": 972,
+      "apla_2": "IL",
+      "apla_3": "ISR"
+    },
+    {
+      "nom": "Italie",
+      "code": 39,
+      "apla_2": "IT",
+      "apla_3": "ITA"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "code": 225,
+      "apla_2": "CI",
+      "apla_3 ": " CIV "
+    },
+    {
+      " nom ": " Jamaïque ",
+      " code ": " 1-876 ",
+      " apla_2 ": " JM ",
+      " apla_3 ": " JAM "
+    },
+    {
+      " nom ": " Japon ",
+      " code ": 81,
+      " apla_2 ": " JP ",
+      " apla_3 ": " JPN "
+    },
+    {
+      " nom ": " Jersey ",
+      " code ": " 44-1534 ",
+      " apla_2 ": " JE ",
+      " apla_3 ": " JEY "
+    },
+    {
+      " name ": " Jordan ",
+      " code ": 962,
+      " apla_2 ": " JO ",
+      " apla_3 ": " JOR "
+    },
+    {
+      " name ": " Kazakhstan ",
+      " code ": 7,
+      " apla_2 ": " KZ ",
+      " apla_3 ": " KAZ "
+    },
+    {
+      " name ": " Kenya ",
+      " code ": 254,
+      " apla_2 ": " KE ",
+      " apla_3 ": " KEN "
+    },
+    {
+      " nom ": " Kiribati ",
+      " code ": 686,
+      " apla_2 ": " KI ",
+      " apla_3 ": " KIR "
+    },
+    {
+      " name ": " Kosovo ",
+      " code ": 383,
+      " apla_2 ": " XK ",
+      " apla_3 ": " XKX "
+    },
+    {
+      " nom ": " Koweït ",
+      " code ": 965,
+      " apla_2 ": " KW ",
+      " apla_3 ": " KWT "
+    },
+    {
+      " nom ": " Kirghizistan ",
+      " code ": 996,
+      " apla_2 ": " KG ",
+      " apla_3 ": " KGZ "
+    },
+    {
+      " nom ": " Laos ",
+      " code ": 856,
+      "une pla_2 ": " LA ",
+      " apla_3 ": " LAO "
+    },
+    {
+      " nom ": " Lettonie ",
+      " code ": 371,
+      " apla_2 ": " LV ",
+      " apla_3 ": " LVA "
+    },
+    {
+      " nom ": " Liban ",
+      " code ": 961,
+      " apla_2 ": " LB ",
+      " apla_3 ": " LBN "
+    },
+    {
+      " nom ": " Lesotho ",
+      " code ": 266,
+      " apla_2 ": " LS ",
+      " apla_3 ": " LSO "
+    },
+    {
+      " name ": " Liberia ",
+      " code ": 231,
+      " apla_2 ": " LR ",
+      " apla_3 ": " LBR "
+    },
+    {
+      " name ": " Libye ",
+      " code ": 218,
+      " apla_2 ": " LY ",
+      " apla_3 ": " LBY "
+    },
+    {
+      " name ": " Liechtenstein ",
+      " code ": 423,
+      " apla_2 ": " LI ",
+      " apla_3 ": " LIE "
+    },
+    {
+      " name ": " Lithuania ",
+      " code ": 370,
+      " apla_2 ": " LT ",
+      " apla_3 ": " LTU "
+    },
+    {
+      " name ": " Luxembourg ",
+      " code ": 352,
+      " apla_2 ": " LU ",
+      " apla_3 ": " LUX "
+    },
+    {
+      " name ": " Macau ",
+      " code ": 853,
+      " apla_2 ": " MO ",
+      " apla_3 ": " MAC "
+    },
+    {
+      " nom ": " Macédoine ",
+      " code ": 389,
+      " apla_2 ": " MK ",
+      " apla_3 ": " MKD "
+    },
+    {
+      " nom ": " Madagascar ",
+      " code ": 261,
+      "apla_2": "MG",
+      "apla_3": "MDG"
+    },
+    {
+      "nom": "Malawi",
+      "code": 265,
+      "apla_2": "MW",
+      "apla_3": "MWI"
+    },
+    {
+      "name": "Malaysia",
+      "code": 60,
+      "apla_2": "MY",
+      "apla_3": "MYS"
+    },
+    {
+      "name": "Maldives",
+      "code": 960,
+      "apla_2": "MV",
+      "apla_3": "MDV"
+    },
+    {
+      "nom": "Mali",
+      "code": 223,
+      "apla_2": "ML",
+      "apla_3": "MLI"
+    },
+    {
+      "nom": "Malte",
+      "code": 356,
+      "apla_2": "MT",
+      "apla_3": "MLT"
+    },
+    {
+      "nom": "Marshall Isla nds ",
+      " code ": 692,
+      " apla_2 ": " MH ",
+      " apla_3 ": " MHL "
+    },
+    {
+      " name ": " Mauritanie ",
+      " code ": 222,
+      " apla_2 ": " MR ",
+      " apla_3 ": " MRT "
+    },
+    {
+      " name ": " Mauritius ",
+      " code ": 230,
+      " apla_2 ": " MU ",
+      " apla_3 ": " MUS "
+    },
+    {
+      " name ": " Mayotte ",
+      " code ": 262,
+      " apla_2 ": " YT ",
+      " apla_3 ": " MYT "
+    },
+    {
+      " name ": " Mexico ",
+      " code ": 52,
+      " apla_2 ": " MX ",
+      " apla_3 ": " MEX "
+    },
+    {
+      " name ": " Micronesia ",
+      " code ": 691,
+      " apla_2 ": " FM ",
+      " apla_3 ": " FSM "
+    },
+    {
+      " name ": " Moldova ",
+      " code ": 373,
+      "apla_2": "MD",
+      "apla_3": "MDA"
+    },
+    {
+      "nom": "Monaco",
+      "code": 377,
+      "apla_2": "MC",
+      "apla_3": "MCO"
+    },
+    {
+      "nom": "Mongolie",
+      "code": 976,
+      "apla_2": "MN",
+      "apla_3": "MNG"
+    },
+    {
+      "name": "Monténégro",
+      "code": 382,
+      "apla_2": "ME",
+      "apla_3": "MNE"
+    },
+    {
+      "nom": "Montserrat",
+      "code": "1-664",
+      "apla_2": "MS",
+      "apla_3": "MSR"
+    },
+    {
+      "nom": "Maroc",
+      "code": 212,
+      "apla_2": "MA",
+      "apla_3": "MAR"
+    },
+    {
+      "name": "Mozambique",
+      "code": 258,
+      "apla_2": "MZ",
+      "apla_3": "MOZ"
+    },
+    {
+      "name": "Myanmar",
+      "code": 95,
+      "apla_2": "MM",
+      "apla_3": "MMR"
+    },
+    {
+      "name": "Namibie",
+      "code": 264,
+      "apla_2": "NA",
+      "apla_3": "NAM"
+    },
+    {
+      "name": "Nauru",
+      "code": 674,
+      "apla_2": "NR",
+      "apla_3": "NRU"
+    },
+    {
+      "name": "Nepal",
+      "code": 977,
+      "apla_2": "NP",
+      "apla_3": "NP L "
+    },
+    {
+      " nom ": " Pays-Bas ",
+      " code ": 31,
+      " apla_2 ": " NL ",
+      " apla_3 ": " NLD "
+    },
+    {
+      " nom ": " Antilles néerlandaises ",
+      " code ": 599,
+      "apla_2": "AN",
+      "apla_3": "ANT"
+    },
+    {
+      "nom": "Nouvelle-Calédonie",
+      "code": 687,
+      "apla_2": "NC",
+      "apla_3": "NCL"
+    },
+    {
+      "name": "New Zealand",
+      "code": 64,
+      "apla_2": "NZ",
+      "apla_3": "NZL"
+    },
+    {
+      "name": "Nicaragua",
+      "code": 505,
+      "apla_2": "NI",
+      "apla_3": "NIC"
+    },
+    {
+      "nom": "Niger",
+      "code": 227,
+      "apla_2": "NE",
+      "apla_3": "NER"
+    },
+    {
+      "nom": "Nigeria",
+      "code": 234,
+      "apla_2": "NG",
+      "apla_3": "NGA"
+    },
+    {
+      "name": "Niue",
+      "code": 683,
+      "apla_2": "NU",
+      "apla_3": "NIU"
+    },
+    {
+      "name": "Corée du Nord",
+      "code": 850,
+      "apla_2": "KP",
+      "apla_3": "PRK"
+    },
+    {
+      "name": "Îles Mariannes du Nord",
+      "code": "1-670",
+      "apla_2": "MP",
+      "apla_3": "MNP"
+    },
+    {
+      "nom": "Norvège",
+      "code": 47,
+      " apla_2 ": " NON ",
+      " apla_3 ": " NOR "
+    },
+    {
+      " nom ": " Oman ",
+      " code ": 968,
+      " apla_2 ": " OM ",
+      " apla_3 ": " OMN "
+    },
+    {
+      " nom ": " Pakistan ",
+      " code ": 92,
+      " apla_2 ": " PK ",
+      " apla_3 ": " PAK "
+    },
+    {
+      " name ": " Palau ",
+      " code ": 680,
+      " apla_2 ": " PW ",
+      " apla_3 ": " PLW "
+    },
+    {
+      " name ": " Palestine ",
+      " code ": 970,
+      " apla_2 ": " PS ",
+      " apla_3 ": " PSE "
+    },
+    {
+      " name ": " Panama ",
+      " code ": 507,
+      " apla_2 ": " PA ",
+      " apla_3 ": " PAN "
+    },
+    {
+      "nom": "Papouasie-Nouvelle-Guinée",
+      "code": 675,
+      "apla_2": "PG",
+      "apla_3": "PNG"
+    },
+    {
+      "name": "Paraguay",
+      "code": 595,
+      " apla_2 ": " PY ",
+      " apla_3 ": " PRY "
+    },
+    {
+      " name ": " Peru ",
+      " code ": 51,
+      " apla_2 ": " PE ",
+      " apla_3 ": " PER "
+    },
+    {
+      " nom ": " Philippines ",
+      " code ": 63,
+      " apla_2 ": " PH ",
+      " apla_3 ": " PHL "
+    },
+    {
+      " name ": " Pitcairn ",
+      " code ": 64,
+      " apla_2 ": " PN ",
+      " apla_3 ": " PCN "
+    },
+    {
+      " nom ": " Pologne ",
+      " code ": 48,
+      " apla_2 ": " PL ",
+      " apla_3 ": " POL "
+    },
+    {
+      " nom ": " Portugal ",
+      " code ": 351,
+      " apla_2 ": " PT ",
+      " apla_3 ": " PRT "
+    },
+    {
+      " name ": " Puerto Rico ",
+      " code ": " 1-787, 1-939 ",
+      "apla_2": "PR",
+      "apla_3": "PRI"
+    },
+    {
+      "name": "Qatar",
+      "code": 974,
+      "apla_2": "QA",
+      "apla_3": "QAT"
+    },
+    {
+      "nom": "République du Congo",
+      "code": 242,
+      "apla_2": "CG",
+      "apla_3": "COG"
+    },
+    {
+      "nom": "Réunion",
+      "code": 262,
+      " apla_2 ": " RE ",
+      " apla_3 ": " REU "
+    },
+    {
+      " name ": " Romania ",
+      " code ": 40,
+      " apla_2 ": " RO ",
+      " apla_3 ": " ROU "
+    },
+    {
+      " nom ": " Russie ",
+      " code ": 7,
+      " apla_2 ": " RU ",
+      " apla_3 ": " RUS "
+    },
+    {
+      " nom ": " Rwanda ",
+      " code ": 250,
+      " apla_2 ": " RW ",
+      " apla_3 ": " RWA "
+    },
+    {
+      " name ": " Saint Barthelemy ",
+      " code ": 590,
+      " apla_2 ": " BL ",
+      " apla_3 ": " BLM "
+    },
+    {
+      " name ": "Sainte-Hélène",
+      "code": 290,
+      "apla_2": "SH",
+      "apla_3": "SHN"
+    },
+    {
+      "nom": "Sai nt Kitts et Nevis ",
+      " code ": " 1-869 ",
+      " apla_2 ": " KN ",
+      " apla_3 ": " KNA "
+    },
+    {
+      " name ": " Sainte-Lucie ",
+      " code ": " 1- 758 ",
+      " apla_2 ": " LC ",
+      " apla_3 ": " LCA "
+    },
+    {
+      " nom ": " Saint Martin ",
+      " code ": 590,
+      " apla_2 ": " MF ",
+      " apla_3 ": " MAF "
+    },
+    {
+      " nom ": " Saint Pierre et Miquelon ",
+      " code ": 508,
+      " apla_2 ": " PM ",
+      " apla_3 ": " SPM "
+    },
+    {
+      " nom ": " Saint-Vincent-et-les Grenadines ",
+      "code": "1-784",
+      "apla_2": "VC",
+      "apla_3": "VCT"
+    },
+    {
+      "name": "Samoa",
+      "code": 685,
+      "apla_2": "WS",
+      "apla_3": "WSM"
+    },
+    {
+      "name": "Saint-Marin",
+      "code": 378,
+      "apla_2": "SM",
+      "apla_3": "SMR"
+    },
+    {
+      "name": "Sao Tome et Principe ",
+      " code ": 239,
+      " apla_2 ": " ST ",
+      " apla_3 ": " STP "
+    },
+    {
+      " name ": " Arabie saoudite ",
+      " code ": 966,
+      " apla_2 ": " SA ",
+      " apla_3 ": " SAU "
+    },
+    {
+      " nom ": " Sénégal ",
+      " code ": 221,
+      " apla_2 ": " SN ",
+      " apla_3 ": " SEN "
+    },
+    {
+      " nom ": " Serbie ",
+      " code ": 381,
+      " apla_2 ": " RS ",
+      " apla_3 ": " SRB "
+    },
+    {
+      " nom ": " Seychelles ",
+      " code ": 248,
+      " apla_2 ": " SC ",
+      " apla_3 ": " SYC "
+    },
+    {
+      " nom ": " Sierra Leone ",
+      " code ": 232,
+      " apla_2 ": " SL ",
+      " apla_3 ": " SLE "
+    },
+    {
+      " nom ": " Singapour ",
+      " code ": 65,
+      " apla_2 ": " SG ",
+      " apla_3 ": " SGP "
+    },
+    {
+      " nom ": " Sint Maarten ",
+      " code ": " 1-721 ",
+      " apla_2 ": " SX ",
+      "apla_3": "SXM"
+    },
+    {
+      "name": "Slo vakia ",
+      " code ": 421,
+      " apla_2 ": " SK ",
+      " apla_3 ": " SVK "
+    },
+    {
+      " name ": " Slovénie ",
+      " code ": 386,
+      " apla_2 ": " SI ",
+      " apla_3 ": " SVN "
+    },
+    {
+      " name ": " Salomon Islands ",
+      " code ": 677,
+      " apla_2 ": " SB ",
+      " apla_3 ": " SLB "
+    },
+    {
+      " name ": " Somalia ",
+      "code": 252,
+      "apla_2": "SO",
+      "apla_3": "SOM"
+    },
+    {
+      "name": "Afrique du Sud",
+      "code": 27,
+      "apla_2": "ZA",
+      "apla_3": "ZAF"
+    },
+    {
+      "nom": "Corée du Sud",
+      "code": 82,
+      "apla_2": "KR",
+      "apla_3": "KOR"
+    },
+    {
+      "nom": "Soudan du Sud",
+      " code ": 211,
+      " apla_2 ": " SS ",
+      " apla_3 ": " SSD "
+    },
+    {
+      " nom ": " Espagne ",
+      " code ": 34,
+      " apla_2 ": " ES ",
+      " apla_3 ": " ESP "
+    },
+    {
+      " nom ": " Sri Lanka ",
+      " code ": 94,
+      " apla_2 ": " LK ",
+      " apla_3 ": " LKA "
+    },
+    {
+      " name ": " Soudan ",
+      " code ": 249,
+      "apla_2": "SD",
+      "apla_3": "SDN"
+    },
+    {
+      "name": "Suriname",
+      "code": 597,
+      "apla_2": "SR",
+      "apla_3": "SUR"
+    },
+    {
+      "nom": "Svalbard et Jan Mayen",
+      "code": 47,
+      "apla_2": "SJ",
+      "apla_3": "SJM"
+    },
+    {
+      "nom": "Swaziland",
+      "code": 268,
+      "apla_2": "SZ",
+      "apla_3": "SWZ"
+    },
+    {
+      "nom": "Suède",
+      "code": 46,
+      "apla_2": "SE",
+      "apla_3": "SWE"
+    },
+    {
+      "nom": "Suisse",
+      "code": 41,
+      "apla_2": "CH",
+      "apla_3": "CHE"
+    },
+    {
+      "nom": "Syrie",
+      "code": 963,
+      "apla_2": "SY",
+      "apla_3": "SYR"
+    },
+    {
+      "nom": "Taiwan",
+      "code": 886,
+      "apla_2 ": " TW ",
+      " apla_3 ": " TWN "
+    },
+    {
+      " name ": " Tadjikistan ",
+      " code ": 992,
+      " apla_2 ": " TJ ",
+      " apla_3 ": " TJK "
+    },
+    {
+      " nom ": " Tanzanie ",
+      " code ": 255,
+      " apla_2 ": " TZ ",
+      " apla_3 ": " TZA "
+    },
+    {
+      " name ": " Thaïlande ",
+      " code ": 66,
+      " apla_2 ": " TH ",
+      " apla_3 ": " THA "
+    },
+    {
+      " nom ": " Togo ",
+      " code ": 228,
+      " apla_2 ": " TG ",
+      " apla_3 ": " TGO "
+    },
+    {
+      " name ": " Tokelau ",
+      " code ": 690,
+      " apla_2 ": " TK ",
+      " apla_3 ": " TKL "
+    },
+    {
+      " name ": " Tonga ",
+      " code ": 676,
+      " apla_2 ": " TO ",
+      " apla_3 ": " TON "
+    },
+    {
+      " name ": " Trinidad and Tobago ",
+      " code ": " 1-868 ",
+      " apla_2 ": " TT ",
+      " apla_3 ": " TTO "
+    },
+    {
+      " name ": "Tunisie",
+      "code": 216,
+      "apla_2": "TN",
+      "apla_3": "TUN"
+    },
+    {
+      "nom": "Turquie",
+      "code": 90,
+      "apla_2": "TR",
+      "apla_3": "TUR"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": 993,
+      "apla_2": "TM",
+      "apla_3": "TKM"
+    },
+    {
+      "name": "Turks and Caicos Îles ",
+      " code ": " 1-649 ",
+      " apla_2 ": " TC ",
+      " apla_3 ": " TCA "
+    },
+    {
+      " name ": " Tuvalu ",
+      " code ": 688,
+      " apla_2 ": " TV ",
+      " apla_3 ": " TUV "
+    },
+    {
+      " name ": " US Îles Vierges ",
+      " code ": " 1-340 ",
+      " apla_2 ": " VI ",
+      " apla_3 ": " VIR "
+    },
+    {
+      " name ": " Ouganda ",
+      " code ": 256,
+      " apla_2 ": "UG",
+      "apla_3": "UGA"
+    },
+    {
+      "name": "Ukraine",
+      "code": 380,
+      "apla_2": "UA",
+      "apla_3": "UKR"
+    },
+    {
+      "name": "Émirats arabes unis",
+      "code": 971,
+      "apla_2": "AE",
+      "apla_3": "ARE"
+    },
+    {
+      "name": "Royaume-Uni",
+      "code": 44,
+      "apla_2": " GB ",
+      " apla_3 ": " GBR "
+    },
+    {
+      " name ": " United States ",
+      " code ": 1,
+      " apla_2 ": " US ",
+      " apla_3 ": " USA "
+    },
+    {
+      " name ": "Uruguay",
+      "code": 598,
+      "apla_2": "UY",
+      "apla_3": "URY"
+    },
+    {
+      "name": "Ouzbékistan",
+      "code": 998,
+      "apla_2": "UZ",
+      "apla_3": "UZB"
+    },
+    {
+      "name": "Vanuatu",
+      "code": 678,
+      "apla_2": "VU",
+      "apla_3": "VUT"
+    },
+    {
+      "name": "Vatican",
+      "code": 379,
+      "apla_2": "VA",
+      "apla_3": "TVA"
+    },
+    {
+      "nom": "Venezuela",
+      "code": 58,
+      "apla_2": "VE",
+      "apla_3": "VEN"
+    },
+    {
+      "nom": "Vietnam",
+      "code": 84,
+      "apla_2": "VN",
+      "apla_3": "VNM"
+    },
+    {
+      "name": "Wallis et Futuna",
+      "code ": 681,
+      " apla_2 ": " WF ",
+      " apla_3 ": " WLF "
+    },
+    {
+      " nom ": " Sahara occidental ",
+      " code ": 212,
+      " apla_2 ": " EH ",
+      " apla_3 ": " ESH "
+    },
+    {
+      " nom ": " Yémen ",
+      " code ": 967,
+      " apla_2 ": " YE ",
+      " apla_3 ": " YEM "
+    },
+    {
+      " nom ": " Zambie ",
+      " code ": 260,
+      "apla_2": "ZM",
+      "apla_3": "ZMB"
+    },
+    {
+      "nom": "Zimbabwe nous ",
+      " code ": 263,
+      " apla_2 ": " ZW ",
+      " apla_3 ": " ZWE "
+    }
+  ]
